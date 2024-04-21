@@ -1,0 +1,14 @@
+{
+  "name": "moneycounter",
+  "productName": "Money Counter",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager . --overwrite --platform=darwin --arch=x64 --icon=icons/mac/cash.icns --prune=true --out=release-builds"
+  },
+  "devDependencies": {
+  	"electron": "^1.4.13"
+  }
+}
