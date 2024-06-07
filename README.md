@@ -1,11 +1,11 @@
-#### Money Counter ####
+## Money Counter ##
 
-## Electron app ##
+### Electron app ###
 
 So far only works on my MacOS, not yet on my Fedora Linux.
 Very old project.
 
-## Install ##
+#### Install ####
 ```
 cd ~
 git clone git@github.com:medevdk/moneycounter
